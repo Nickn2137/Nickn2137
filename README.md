@@ -17,6 +17,7 @@ I hope to one day be able to leverage my skills to help those in underserved com
 📫 Contact me
 
 Email: nickn@ad.unc.edu
+
 LinkedIn: linkedin.com/in/nickdnguyen
 
 ⚡ Fun Fact
