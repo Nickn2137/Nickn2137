@@ -2,13 +2,13 @@
 
 🚀 About me
 
--  I'm an undergraduate student pursuing a Bachelor of Science in Computer Science at the University of North Carolina at Chapel Hill. I have a strong passion for iOS Development, Web Development, and Software Engineering. I enjoy working on projects that positively impact surrounding communities!
+ - I'm an undergraduate student pursuing a Bachelor of Science in Computer Science at the University of North Carolina at Chapel Hill. I have a strong passion for iOS Development, Web Development, and Software Engineering. I enjoy working on projects that positively impact surrounding communities!
 
 🔭 Skills
 
-Programming Languages: Java, Python, Swift, JavaScript, HTML/CSS, SQL, C, Assembly
+- Programming Languages: Java, Python, Swift, JavaScript, HTML/CSS, SQL, C, Assembly
 
-Technologies: SwiftUI, JUnit, Juptyer Notebook, Git, Docker, MySQL, VsCode, IntelliJ
+-  Technologies: SwiftUI, JUnit, Juptyer Notebook, Git, Docker, MySQL, VsCode, IntelliJ
 
 🎯 Goals
 
