@@ -5,4 +5,4 @@
 - **[NCAsk](https://github.com/NC-ASK/NC-ASK)**: RAG-powered chatbot helping NC families and clinicians navigate autism services through source-cited responses.
 - **[HeelShop](https://github.com/Nickn2137/HeelShop)**: Native iOS marketplace exclusively for verified university students to buy and sell locally on campus.
 - **[AskXL](https://github.com/comp423-25s/csxl-team-c6)**: AI-powered chatbot integrated into a university CS platform to deliver real-time, course-specific student support.
-- **[ForkedIn](https://github.com/Quole0812/Forkedin)**: Recipe discovery platform featuring user-generated content, community discussion, and an AI-powered cooking assistant.
+- **[ForkedIn](https://github.com/Quole0812/Forkedin)**: Recipe discovery platform with user content, community discussion, and an AI cooking assistant.
