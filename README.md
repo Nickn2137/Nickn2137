@@ -1,37 +1,8 @@
-## Hi, I'm Nick! 👋
+## Projects
 
-🚀 About me
-
- - I'm an undergraduate student pursuing a Bachelor of Science in Computer Science at the University of North Carolina at Chapel Hill. I have a strong passion for iOS Development, Web Development, and Software Engineering. I enjoy working on projects that positively impact surrounding communities!
-
-🔭 Skills
-
-- Programming Languages: Java, Python, Swift, JavaScript, HTML/CSS, SQL, C, Assembly
--  Technologies: SwiftUI, JUnit, Juptyer Notebook, Git, Docker, MySQL, VsCode, IntelliJ
-
-🎯 Goals
-
-- I hope to one day be able to leverage my skills to help those in underserved communities.
-
-📫 Contact me
-
-- Email: nickn@ad.unc.edu
-- LinkedIn: linkedin.com/in/nickdnguyen
-
-⚡ Fun Fact
-
-- My favorite movie franchise is Jurassic Park! 🦖
-<!--
-**Nickn2137/Nickn2137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[P&D Truck Rental Mobile](https://apps.apple.com/us/app/pd-truck-rental/id6751124357)**: Cross-platform rental app with booking, messaging, and payments.
+- **[Carolina Cupboard](https://github.com/appteamcarolina/cupboard-ios)**: iOS app supporting pantry inventory and barcode-based workflows.
+- **[NCAsk](https://github.com/NC-ASK/NC-ASK)**: AI-powered chatbot for autism resources using retrieval-based responses.
+- **[HeelShop](https://github.com/Nickn2137/HeelShop)**: Campus marketplace iOS app with listings, messaging, and favorites.
+- **[AskXL](https://github.com/comp423-25s/csxl-team-c6)**: Chatbot integrated into CSXL for student support and Q&A.
+- **[ForkedIn](https://github.com/Quole0812/Forkedin)**: Social recipe-sharing platform inspired by LinkedIn, with posting, commenting, and user interaction features.
